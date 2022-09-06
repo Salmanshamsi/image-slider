@@ -1,9 +1,9 @@
 //                                                       Data veriables
-var img1 =  "file:///E:/web%20imge%20slider/imgs/1img.jpg"
-var img2 =  "file:///E:/web%20imge%20slider/imgs/2img.png"
-var img3 =  "file:///E:/web%20imge%20slider/imgs/3img.jpg"
-var img4 =  "file:///E:/web%20imge%20slider/imgs/4img.jpg"
-var img5 =  "file:///E:/web%20imge%20slider/imgs/5img.jpg"
+var img1 =  "file:///E:/image-slider/imgs/1img.jpg"
+var img2 =  "file:///E:/image-slider/imgs/2img.png"
+var img3 =  "file:///E:/image-slider/imgs/3img.jpg"
+var img4 =  "file:///E:/image-slider/imgs/4img.jpg"
+var img5 =  "file:///E:/image-slider/imgs/5img.jpg"
 var a = document.getElementById("a"); 
 var b = document.getElementById("b"); 
 var c = document.getElementById("c"); 
@@ -157,10 +157,6 @@ function onleft(){
        var a5 = e.style.background = "white"
    }
    }
-
-
-
-
 
 
 
